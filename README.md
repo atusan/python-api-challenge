@@ -33,7 +33,7 @@ The next objective is to run linear regression on each relationship:
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-The final result consist of:
+The final result consists of:
 
 * Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
 * Perform a weather check on each of the cities using a series of successive API calls.
